@@ -1,0 +1,6 @@
+streamlit
+SpeechRecognition
+pyaudio
+pocketsphinx
+sounddevice
+soundfile
